@@ -64,7 +64,7 @@ git clone git@github.com:darlanmendonca/palestra-madre-html5.git test
 
 
 2º Forma
-Baixe o arquivo zipado, neste [link](https://github.com/darlanmendonca/palestra-madre-html5.git).
+Baixe o arquivo zipado, neste [link](https://github.com/darlanmendonca/palestra-madre-html5/archive/master.zip).
 
 Instalação
 Primeiro você precisa ter instalado na máquina algumas coisas, o Node.js + NPM você baixa e instala [daqui](https://nodejs.org/).
