@@ -1,0 +1,22 @@
+.sprite {
+	display: inline-block;
+}
+
+.sprite.green {
+	@include sprite($sprite-green);
+	animation: rotate 4s infinite linear alternate;
+}
+
+.sprite.red {
+	@include sprite($sprite-red);
+	animation: rotate 4s infinite ease alternate;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0deg) translateZ(0);
+	}
+	100% {
+		transform: rotate(360deg) translateZ(0);
+	}
+}

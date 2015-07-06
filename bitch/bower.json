@@ -1,0 +1,16 @@
+{
+  "name": "bitch",
+  "version": "0.0.0",
+  "authors": [
+    "darlanmendonca <darlanmendonca@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
